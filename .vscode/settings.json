@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Batman Combat System.sln"
+    "dotnet.defaultSolution": "batman-freeflow-combat-system.sln"
 }
